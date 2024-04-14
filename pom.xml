@@ -1,0 +1,21 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>MyProject</groupId>
+    <artifactId>Cryptocurrency-Portfolio-Analysis</artifactId>
+    <version>0.1</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20240303</version>
+        </dependency>
+    </dependencies>
+    <build>
+        <sourceDirectory>code</sourceDirectory>
+        <testSourceDirectory>test</testSourceDirectory>
+    </build>
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+    </properties>
+</project>
