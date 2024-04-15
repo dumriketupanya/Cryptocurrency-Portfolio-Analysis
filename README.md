@@ -7,7 +7,7 @@ To begin using the program, follow these steps after running it.
 ### Inputs
 
 <p align="center">
-  <img src="https://github.com/dumriketupanya/Cryptocurrency-Portfolio-Analysis/raw/main/Pictures/Input.png" width="800" height="500" />
+  <img src="https://github.com/dumriketupanya/Cryptocurrency-Portfolio-Analysis/raw/main/Pictures/Input.png" width="822" height="360" />
 </p>
 
 **Initial Input:**
@@ -26,7 +26,7 @@ To begin using the program, follow these steps after running it.
 If the calculation is successful, the result will be displayed as follows.
 
 <p align="center">
-  <img src="https://github.com/dumriketupanya/Cryptocurrency-Portfolio-Analysis/blob/main/Pictures/Result.png" width="800" height="500" />
+  <img src="https://github.com/dumriketupanya/Cryptocurrency-Portfolio-Analysis/blob/main/Pictures/Result.png" width="1073" height="447" />
 </p>
 
 The description of Results:
@@ -67,7 +67,7 @@ Variation of daily return by holding each asset individually has decreased from 
 Once the calculation process is complete, you can enter 'Y' to try other proportions again. This allows you to compare different allocation strategies and find the most suitable one for your portfolio.
 
 <p align="center">
-  <img src="https://github.com/dumriketupanya/Cryptocurrency-Portfolio-Analysis/blob/main/Pictures/Rerun.png" width="800" height="1000" />
+  <img src="https://github.com/dumriketupanya/Cryptocurrency-Portfolio-Analysis/blob/main/Pictures/Rerun.png" width="1078" height="730" />
 </p>
 If you have any further questions or encounter any errors, calculation mistakes, or if you would like to suggest improvements to enhance the program. Please feel free to contact me via GitHub or email.
 
