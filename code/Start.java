@@ -12,6 +12,7 @@ import org.json.JSONArray;
 
 public class Start {
     public static void main(String[] args) throws Exception {
+		System.out.println("Welcome to Cryptocurrency Portfolio Analysis Version 0.1");
         Scanner scanner = new Scanner(System.in);
         
         // Define variables
